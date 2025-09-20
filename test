@@ -1,2 +1,5 @@
 print("Hello")
-print("hellowrl"
+print("hellowrl")
+
+def fun:
+print(""from fun)
